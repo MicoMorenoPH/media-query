@@ -1,0 +1,10 @@
+@media only screen and (max-width:1366px) and (min-width:1000px) {
+    .mySelect, .myInput, .myDate {
+        font-size: 12px;
+    }
+    .c-LoginHolder > .c-content > span,
+    .c-LoginHolder > span,
+    .c-accessFor > span {
+        font-size: 14px;
+    }
+}
